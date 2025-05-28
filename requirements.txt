@@ -1,0 +1,1 @@
+pip install gigachain gigachain-community unstructured[all-docs] faiss-cpu sentence-transformers aiogram
