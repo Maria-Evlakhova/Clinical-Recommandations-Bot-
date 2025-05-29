@@ -43,7 +43,7 @@ for file, title in pdf_files.items():
 # Бот и диспетчер
 logging.basicConfig(level=logging.INFO)
 # Объект бота
-bot = Bot(token="7642713807:AAG-7hYwDH6qACk_yHr_YeCFQMmwvpM6IcA")
+bot = Bot(token="#")
 # Диспетчер
 dp = Dispatcher()
 
